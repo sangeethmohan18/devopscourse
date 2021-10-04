@@ -1,2 +1,3 @@
 simpleconetcnt
 new commit for RESET
+Git stash work

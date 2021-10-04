@@ -1,2 +1,3 @@
 simplecontencnt
 new commit to RESET2
+git stash work
